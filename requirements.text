@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+openai
+selenium
+webdriver-manager
+html2image
+imgkit
+wkhtmltopdf: Make sure to install wkhtmltopdf manually (it's not a Python package)
