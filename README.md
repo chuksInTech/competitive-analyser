@@ -81,7 +81,8 @@ websites to compare and analyze = [
 results = run_competitive_analysis(websites, api_key="your_openai_api_key")
 
 
-<img width="600" alt="summary_table" src="https://github.com/user-attachments/assets/ab114bd0-d2d1-4403-9265-4b4652b6e37e" />
+<img width="592" alt="competitive report" src="https://github.com/user-attachments/assets/f355f316-3ced-4f69-8922-a676a1952028" />
+
 
 📂 Output Files
 
